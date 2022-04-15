@@ -1,0 +1,24 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    font-family: Lato, sans-serif;
+}
+
+button {
+    background-color: #69db7c;
+    color: #ebfbee;
+    border: none;
+    height: 10rem;
+    width: 30rem;
+    border-top-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+    font-size: 2.4rem;
+    font-weight: 700;
+    position: absolute;
+}
+
+button:hover {
+    cursor: pointer;
+}
